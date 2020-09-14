@@ -21,21 +21,21 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 4
   exclude:
     archived: false
     forks: true
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: connorslagle
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -47,12 +47,18 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Tableau
+    web_url: https://www.tableau.com/why-tableau
+    image_url: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.avalonrisk.com%2Fimages%2Ficons%2Ftabl.png&f=1&nofb=1
 
-  - name: Web design
+  - name: Coral
+    web_url: https://www.coral.ai/about-coral/
+    image_url: https://media.istockphoto.com/vectors/coral-logo-isolated-coral-on-white-background-vector-id1063689100?k=6&m=1063689100&s=170667a&w=0&h=AmA3emZgoV-DeGiYOKCrDSOZ-7DvzjVTfvj6dzt93kE=
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: PyTorch
+    web_url: https://pytorch.org/features/
+    image_url: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpytorch.org%2Fassets%2Fimages%2Fpytorch-logo.png&f=1&nofb=1
+
+  - name: React Native
+    web_url: https://reactnative.dev/
+    image_url: http://www.kiodev.com/wp-content/uploads/2016/03/react-logo.png
